@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @punk-knight
-- 👀 I’m interested in data science
+- 👋 Hi, I’m karthick
+- 👀 I’m interested in FSD
 - 🌱 I’m currently learning javascript and java
 - 💞️ I’m looking to collaborate on new projects and technical events
 - 📫 How to reach me 8940919934
